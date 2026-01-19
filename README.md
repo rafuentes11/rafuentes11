@@ -3,7 +3,7 @@
 
 <hr>
 
-<h3 align="center">About me:</h3>
+<h3 align="left">About me:</h3>
 <p align="left">Hi, I'm Rodrigo Fuentes. I graduated from Towson University with a Bachelors in Computer Science. 
   I have specialized in front end and cloud infrastructure engineering with strong foundation in JavaScript, React, HTML, and CSS. 
 </p>
@@ -33,6 +33,14 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <hr> 
 
 <h2 align="left">Tech Stack</h2>
+
+<h3 align="left">Frontend Development</h3>
+<p align="left">
+  Technolgies I use for user interface and functionality.
+</p>
+<p align="left">
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+</p>
 
                                                                                                  
 <!--
