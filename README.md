@@ -4,23 +4,25 @@
 <hr>
 
 <h3 align="left">About me:</h3>
-<p align="left">Hi, I'm Rodrigo Fuentes. I graduated from Towson University with a Bachelors in Computer Science. 
-  I have specialized in front end and cloud infrastructure engineering with strong foundation in JavaScript, React, HTML, and CSS. 
+<p align="left">Hi, I'm Rodrigo Fuentes — a Software Engineer and Computer Science graduate from Towson University. 
+I focus on frontend development and cloud infrastructure, with hands-on experience building user-facing web applications using React, JavaScript, HTML, and CSS. 
+In addition to frontend work, I’ve worked with cloud technologies such as Microsoft Entra ID and Azure Virtual Desktop, managing users, roles, and access policies. 
+I enjoy building clean, responsive interfaces and learning how modern web applications integrate with cloud-based systems. 
+I’m passionate about continuous learning, improving my engineering skills, and building projects that solve real-world problems.
 </p>
 
 <hr>
 
 <h3 align="left">Professional Experience:</h3>
 <h5 align="left">Treevah</h5>
-<p align="left">
-  <ul>
-    <li><b>Software Engineer Intern (September 2025 - Decmeber 2025)</b></li>
-    <li>Implemented new UI features using React, JavaScript, HTML, and CSS including sorting, refresh crontrols, and folder hierarchy.</li>
-    <li>Debugged and Optimized over 15 frontend components, improving load time and dashboard responsiveness.</li>
-    <li>Built and configured Azure Virtual Desktops to transfer workflow from personal computers to virtual desktops.</li>
-    <li>Deployed and managed Azure VM's, Entra Id's, and resources with roles based configurations.</li>
-  </ul>
-</p>
+<ul>
+  <li><b>Software Engineer Intern (September 2025 - December 2025)</b></li>
+  <li>Implemented new UI features using React, JavaScript, HTML, and CSS including sorting, refresh controls, and folder hierarchy.</li>
+  <li>Debugged and optimized 15+ frontend components, improving load time and dashboard responsiveness.</li>
+  <li>Built and configured Azure Virtual Desktops to transition workflow from personal computers to virtual desktops.</li>
+  <li>Deployed and managed Azure VMs, Microsoft Entra ID, and resources with role-based configurations.</li>
+</ul>
+
 
 <hr>
 
@@ -36,30 +38,22 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 
 <h3 align="left">Frontend Development</h3>
 <p align="left">
-  Technolgies I use for user interface and functionality.
-</p>
-<p align="left">
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Backend Development</h3>
-
+<p align="left">
+   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+</p>
 <h3 align="left">Cloud & Development</h3>
-
+<p align="left">
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a>
+</p>
 <h3 align="left">Databases</h3>
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+</p>
 
-                                                                                                 
-<!--
-**rafuentes11/rafuentes11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
