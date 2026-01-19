@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Fuentes</h1><hr>
+<h1 align="center">Hi 👋, I'm Rodrigo Fuentes</h1>
 <h3 align="center">Frontend Engineer | Cloud Infrastructure Engineer</h3><hr>
 
 <h3 align="left">About me:</h3>
