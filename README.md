@@ -21,7 +21,7 @@ I’m passionate about continuous learning, improving my engineering skills, and
 
 <h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/rodrigo-fuentes-75304817b/" target="blank"><img align="center"
+<a href="https://linkedin.com/in/rodrigo-fuentes-75304817b/" target="_blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rodrigo-fuentes-75304817b" height="30" width="40" /></a>
 </p><hr> 
 
