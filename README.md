@@ -42,6 +42,12 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">Backend Development</h3>
+
+<h3 align="left">Cloud & Development</h3>
+
+<h3 align="left">Databases</h3>
+
                                                                                                  
 <!--
 **rafuentes11/rafuentes11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
