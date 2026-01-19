@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Fuentes</h1>
-<h3 align="center">Frontend Engineer | Cloud Infrastructure Engineer</h3>
-
-<hr>
+<h1 align="center">Hi 👋, I'm Rodrigo Fuentes</h1><hr>
+<h3 align="center">Frontend Engineer | Cloud Infrastructure Engineer</h3><hr>
 
 <h3 align="left">About me:</h3>
 <p align="left">Hi, I'm Rodrigo Fuentes — a Software Engineer and Computer Science graduate from Towson University. 
@@ -9,9 +7,7 @@ I focus on frontend development and cloud infrastructure, with hands-on experien
 In addition to frontend work, I’ve worked with cloud technologies such as Microsoft Entra ID and Azure Virtual Desktop, managing users, roles, and access policies. 
 I enjoy building clean, responsive interfaces and learning how modern web applications integrate with cloud-based systems. 
 I’m passionate about continuous learning, improving my engineering skills, and building projects that solve real-world problems.
-</p>
-
-<hr>
+</p><hr>
 
 <h3 align="left">Professional Experience:</h3>
 <h5 align="left">Treevah</h5>
@@ -21,18 +17,13 @@ I’m passionate about continuous learning, improving my engineering skills, and
   <li>Debugged and optimized 15+ frontend components, improving load time and dashboard responsiveness.</li>
   <li>Built and configured Azure Virtual Desktops to transition workflow from personal computers to virtual desktops.</li>
   <li>Deployed and managed Azure VMs, Microsoft Entra ID, and resources with role-based configurations.</li>
-</ul>
-
-
-<hr>
+</ul><hr>
 
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/rodrigo-fuentes-75304817b/" target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rodrigo-fuentes-75304817b" height="30" width="40" /></a>
-</p>
-
-<hr> 
+</p><hr> 
 
 <h2 align="left">Tech Stack</h2>
 
